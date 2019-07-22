@@ -127,9 +127,9 @@
 
 </channes>
    <channel>
-      <name>[COLOR lime]Utilidades[/COLOR]</name>
+      <name>[COLOR lime][/COLOR]</name>
       <thumbnail></thumbnail>
       <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/peliculas.xml</externallink>
+      <externallink></externallink>
    </channel>
 </channels>
